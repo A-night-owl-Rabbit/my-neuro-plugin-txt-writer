@@ -1,0 +1,9 @@
+{
+  "name": "txt-writer",
+  "displayName": "TXT 文件写入",
+  "version": "1.0.0",
+  "author": "my-neuro",
+  "description": "创建 .txt 文件并写入文本内容，支持覆盖；禁止写入系统敏感目录（原 server-tools/create_txt_writer 迁移）",
+  "main": "index.js",
+  "lang": "js"
+}
